@@ -1,27 +1,35 @@
-<h1>Adriano Pires Cunha</h1>
+<p align="center">
+  <sub>ESTATÍSTICA · DADOS · IA APLICADA</sub>
+</p>
 
-Estatístico e mestrando em Ciência da Computação. Trabalho com dados, pesquisa aplicada e automações para transformar problemas reais em análises e produtos úteis.
+<h1 align="center">Adriano Pires Cunha</h1>
 
-[LinkedIn](https://www.linkedin.com/in/adriano-pires-b6a7b01a3/) · [E-mail](mailto:adriano.cunha@aluno.ufop.edu.br)
+<p align="center">
+  Mestrando em Ciência da Computação na UFV<br />
+  Bacharel em Estatística pela UFOP
+</p>
 
-## Em foco
+<p align="center">
+  <a href="https://www.linkedin.com/in/adriano-pires-b6a7b01a3/">LinkedIn</a>
+  ·
+  <a href="mailto:adriano.cunha@aluno.ufop.edu.br">E-mail</a>
+</p>
 
-Estatística aplicada, ciência de dados, Python, R, SQL, visualização, dados espaciais e IA aplicada.
+<br />
 
-## Projetos em destaque
+Trabalho na interseção entre pesquisa aplicada, análise de dados e automações. Meu interesse está em construir análises e sistemas que ajudem pessoas a tomar decisões melhores.
 
-**[Consórcios MG: Dados e Território](https://github.com/driano1221/consorcios-mg-dados-territorio)**  
-Auditoria, integração e análise territorial de dados sobre consórcios intermunicipais em Minas Gerais.
+## Projetos selecionados
 
-**[Radar de Consórcios](https://github.com/driano1221/radar-consorcios-whatsapp)**  
-Monitoramento automatizado de notícias sobre consórcios intermunicipais com curadoria e publicação no WhatsApp.
+| Projeto | Em uma frase |
+| --- | --- |
+| [Consórcios MG: Dados e Território](https://github.com/driano1221/consorcios-mg-dados-territorio) | Auditoria, integração e análise territorial de dados sobre consórcios intermunicipais em Minas Gerais. |
+| [Radar de Consórcios](https://github.com/driano1221/radar-consorcios-whatsapp) | Monitoramento e curadoria automatizada de notícias com publicação no WhatsApp. |
+| [LeJEPA Time Series](https://github.com/driano1221/LeJEPA-TimeSeries) | Benchmark de aprendizado autossupervisionado para séries temporais. |
+| [DocRevisor](https://github.com/driano1221/docrevisor) | Processamento de notas fiscais brasileiras com revisão humana. |
 
-**[LeJEPA Time Series](https://github.com/driano1221/LeJEPA-TimeSeries)**  
-Benchmark de aprendizado autossupervisionado para séries temporais.
-
-**[DocRevisor](https://github.com/driano1221/docrevisor)**  
-Processamento inteligente de notas fiscais brasileiras com revisão humana.
-
-## Formação
-
-Mestrando em Ciência da Computação pela UFV. Bacharel em Estatística pela UFOP.
+<details>
+  <summary><strong>Ferramentas e métodos</strong></summary>
+  <br />
+  Python, R, SQL, Power BI, visualização, geoprocessamento, inferência estatística, machine learning, LLMs e RAG.
+</details>
