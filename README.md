@@ -26,7 +26,7 @@ Trabalho na interseção entre pesquisa aplicada, análise de dados e automaçõ
 | [Consórcios MG: Dados e Território](https://github.com/driano1221/consorcios-mg-dados-territorio) | Auditoria, integração e análise territorial de dados sobre consórcios intermunicipais em Minas Gerais. |
 | [Radar de Consórcios](https://github.com/driano1221/radar-consorcios-whatsapp) | Monitoramento e curadoria automatizada de notícias com publicação no WhatsApp. |
 | [LeJEPA Time Series](https://github.com/driano1221/LeJEPA-TimeSeries) | Benchmark de aprendizado autossupervisionado para séries temporais. |
-| [DocRevisor](https://github.com/driano1221/docrevisor) | Processamento de notas fiscais brasileiras com revisão humana. |
+| [Telegram Expense Bot](https://github.com/driano1221/telegram-expense-bot) | Bot para organização financeira pessoal com NLP, LLMs e deploy gratuito. |
 
 <details>
   <summary><strong>Ferramentas e métodos</strong></summary>
