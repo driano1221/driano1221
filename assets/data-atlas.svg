@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Adriano Pires Cunha</title>
+  <desc id="desc">Estatística aplicada, dados territoriais e inteligência artificial.</desc>
+
+  <rect width="1200" height="300" fill="#f7f4ec"/>
+  <rect x="28" y="28" width="1144" height="244" fill="none" stroke="#173f4d" stroke-width="1.5"/>
+
+  <g fill="#173f4d" font-family="Arial, Helvetica, sans-serif">
+    <text x="74" y="88" font-size="16" font-weight="700" letter-spacing="4">ADRIANO PIRES CUNHA</text>
+    <text x="74" y="130" font-size="29" font-weight="700">Estatística aplicada</text>
+    <text x="74" y="164" font-size="29" font-weight="700">dados territoriais e IA</text>
+    <text x="74" y="220" font-size="13" letter-spacing="2.2">PESQUISA  /  AUTOMAÇÃO  /  PRODUTOS DE DADOS</text>
+  </g>
+
+  <g fill="none" stroke="#83aab0" stroke-width="1">
+    <path d="M710 66 C758 43 821 54 852 92 C886 133 929 141 1005 108 C1053 87 1102 93 1131 125"/>
+    <path d="M674 102 C728 79 776 86 810 119 C849 156 901 168 958 145 C1028 116 1071 132 1142 169"/>
+    <path d="M648 143 C715 122 764 135 795 166 C835 204 897 211 952 187 C1024 155 1092 174 1140 209"/>
+    <path d="M675 193 C735 176 785 185 819 213 C856 243 915 246 968 221 C1021 197 1085 207 1128 237"/>
+    <path d="M776 52 L776 247 M875 52 L875 247 M974 52 L974 247 M1073 52 L1073 247" stroke-dasharray="3 7"/>
+  </g>
+
+  <g fill="#0f766e">
+    <circle cx="727" cy="116" r="6"/>
+    <circle cx="819" cy="165" r="5"/>
+    <circle cx="901" cy="177" r="7"/>
+    <circle cx="1002" cy="148" r="5"/>
+    <circle cx="1098" cy="188" r="6"/>
+  </g>
+  <g fill="#d49928">
+    <circle cx="765" cy="90" r="4"/>
+    <circle cx="853" cy="123" r="4"/>
+    <circle cx="951" cy="219" r="4"/>
+    <circle cx="1041" cy="112" r="4"/>
+  </g>
+
+  <g fill="#53747d" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.4">
+    <text x="678" y="260">COORDENADAS</text>
+    <text x="1086" y="260">BR · 2026</text>
+  </g>
+</svg>
