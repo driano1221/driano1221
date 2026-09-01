@@ -19,10 +19,11 @@
 
 Trabalho na interseção entre pesquisa aplicada, análise de dados e automações. Meu interesse está em construir análises e sistemas que ajudem pessoas a tomar decisões melhores.
 
-## Projetos selecionados
+## Projetos relevantes
 
 | Projeto | Em uma frase |
 | --- | --- |
+| [Space Cadet RL](https://github.com/driano1221/space-cadet-rl) | Agente PPO para o Space Cadet Pinball, com engine C++ instrumentada, ambiente Gymnasium e análise reprodutível em Python e R. |
 | [Consórcios MG: Dados e Território](https://github.com/driano1221/consorcios-mg-dados-territorio) | Auditoria, integração e análise territorial de dados sobre consórcios intermunicipais em Minas Gerais. |
 | [Radar de Consórcios](https://github.com/driano1221/radar-consorcios-whatsapp) | Monitoramento e curadoria automatizada de notícias com publicação no WhatsApp. |
 | [LeJEPA Time Series](https://github.com/driano1221/LeJEPA-TimeSeries) | Benchmark de aprendizado autossupervisionado para séries temporais. |
